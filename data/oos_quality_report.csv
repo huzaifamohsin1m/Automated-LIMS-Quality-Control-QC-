@@ -1,0 +1,201 @@
+Date,Shift,Analyst,Violations,Total_Violations
+2025-01-01,Night,AN-03,Boiler pH (8.35 is outside 8.5-9.5),1
+2025-01-07,Evening,AN-03,Ammonia Purity (99.45% < 99.5%),1
+2025-01-08,Night,AN-02,Prill Size (88.31% < 90.0%),1
+2025-01-13,Evening,AN-02,Boiler pH (7.69 is outside 8.5-9.5),1
+2025-01-15,Night,AN-02,Boiler pH (8.19 is outside 8.5-9.5),1
+2025-01-17,Night,AN-01,Prill Size (89.75% < 90.0%),1
+2025-01-19,Morning,AN-03,Boiler pH (8.48 is outside 8.5-9.5),1
+2025-01-27,Night,AN-02,Boiler pH (9.77 is outside 8.5-9.5),1
+2025-01-29,Evening,AN-02,Boiler pH (8.43 is outside 8.5-9.5),1
+2025-01-29,Night,AN-02,Prill Size (88.24% < 90.0%),1
+2025-02-02,Evening,AN-01,Boiler pH (8.2 is outside 8.5-9.5),1
+2025-02-03,Morning,AN-01,"Prill Size (88.89% < 90.0%), Boiler pH (9.63 is outside 8.5-9.5)",2
+2025-02-06,Evening,AN-03,Prill Size (89.04% < 90.0%),1
+2025-02-06,Night,AN-01,Prill Size (89.14% < 90.0%),1
+2025-02-08,Night,AN-04,Prill Size (89.13% < 90.0%),1
+2025-02-11,Evening,AN-02,Boiler pH (9.64 is outside 8.5-9.5),1
+2025-02-14,Evening,AN-02,Ammonia Purity (99.435% < 99.5%),1
+2025-02-19,Morning,AN-01,Prill Size (89.53% < 90.0%),1
+2025-02-20,Morning,AN-04,Prill Size (89.7% < 90.0%),1
+2025-02-23,Evening,AN-01,Ammonia Purity (99.458% < 99.5%),1
+2025-02-25,Night,AN-01,Prill Size (89.31% < 90.0%),1
+2025-02-26,Evening,AN-02,Boiler pH (9.74 is outside 8.5-9.5),1
+2025-02-28,Evening,AN-04,Prill Size (89.4% < 90.0%),1
+2025-03-01,Morning,AN-02,Boiler pH (9.58 is outside 8.5-9.5),1
+2025-03-02,Morning,AN-04,"Ammonia Purity (99.41% < 99.5%), Boiler pH (9.52 is outside 8.5-9.5)",2
+2025-03-03,Evening,AN-02,Boiler pH (7.88 is outside 8.5-9.5),1
+2025-03-04,Night,AN-02,Ammonia Purity (99.485% < 99.5%),1
+2025-03-05,Night,AN-04,Boiler pH (8.45 is outside 8.5-9.5),1
+2025-03-11,Evening,AN-04,Boiler pH (7.53 is outside 8.5-9.5),1
+2025-03-15,Morning,AN-02,Prill Size (89.27% < 90.0%),1
+2025-03-17,Evening,AN-01,Prill Size (88.66% < 90.0%),1
+2025-03-19,Morning,AN-01,Prill Size (88.87% < 90.0%),1
+2025-03-20,Evening,AN-02,Boiler pH (8.47 is outside 8.5-9.5),1
+2025-03-23,Morning,AN-02,Boiler pH (8.45 is outside 8.5-9.5),1
+2025-03-28,Morning,AN-03,Prill Size (89.8% < 90.0%),1
+2025-04-02,Morning,AN-02,Boiler pH (8.09 is outside 8.5-9.5),1
+2025-04-03,Morning,AN-03,Boiler pH (8.47 is outside 8.5-9.5),1
+2025-04-03,Night,AN-02,Ammonia Purity (99.497% < 99.5%),1
+2025-04-06,Morning,AN-01,Boiler pH (9.51 is outside 8.5-9.5),1
+2025-04-07,Night,AN-02,"Moisture (0.301% > 0.3%), Prill Size (89.7% < 90.0%)",2
+2025-04-08,Evening,AN-02,Boiler pH (9.54 is outside 8.5-9.5),1
+2025-04-09,Morning,AN-04,Ammonia Purity (99.493% < 99.5%),1
+2025-04-09,Night,AN-01,Prill Size (89.56% < 90.0%),1
+2025-04-11,Morning,AN-04,Boiler pH (8.46 is outside 8.5-9.5),1
+2025-04-12,Morning,AN-02,Boiler pH (7.83 is outside 8.5-9.5),1
+2025-04-16,Evening,AN-03,Boiler pH (9.52 is outside 8.5-9.5),1
+2025-04-21,Night,AN-04,Prill Size (87.16% < 90.0%),1
+2025-04-27,Night,AN-03,Prill Size (88.96% < 90.0%),1
+2025-05-01,Morning,AN-02,Boiler pH (9.51 is outside 8.5-9.5),1
+2025-05-04,Evening,AN-03,Ammonia Purity (99.353% < 99.5%),1
+2025-05-07,Night,AN-03,Moisture (0.313% > 0.3%),1
+2025-05-08,Night,AN-03,Prill Size (86.39% < 90.0%),1
+2025-05-09,Evening,AN-03,Prill Size (89.41% < 90.0%),1
+2025-05-14,Morning,AN-02,Boiler pH (9.53 is outside 8.5-9.5),1
+2025-05-16,Evening,AN-04,Boiler pH (9.54 is outside 8.5-9.5),1
+2025-05-20,Evening,AN-03,Boiler pH (8.48 is outside 8.5-9.5),1
+2025-05-21,Night,AN-04,Boiler pH (9.51 is outside 8.5-9.5),1
+2025-05-23,Night,AN-03,Ammonia Purity (99.479% < 99.5%),1
+2025-05-25,Evening,AN-01,Prill Size (89.93% < 90.0%),1
+2025-05-28,Evening,AN-02,Prill Size (89.69% < 90.0%),1
+2025-06-01,Night,AN-01,Prill Size (89.43% < 90.0%),1
+2025-06-04,Morning,AN-01,Boiler pH (8.11 is outside 8.5-9.5),1
+2025-06-04,Night,AN-01,Prill Size (89.92% < 90.0%),1
+2025-06-07,Evening,AN-03,Boiler pH (8.31 is outside 8.5-9.5),1
+2025-06-10,Morning,AN-02,Boiler pH (8.02 is outside 8.5-9.5),1
+2025-06-15,Evening,AN-04,Boiler pH (8.38 is outside 8.5-9.5),1
+2025-06-16,Morning,AN-04,Boiler pH (8.45 is outside 8.5-9.5),1
+2025-06-16,Evening,AN-04,Prill Size (89.6% < 90.0%),1
+2025-06-18,Morning,AN-04,Prill Size (89.37% < 90.0%),1
+2025-06-23,Night,AN-04,Prill Size (89.16% < 90.0%),1
+2025-06-25,Evening,AN-01,Ammonia Purity (99.489% < 99.5%),1
+2025-06-26,Evening,AN-02,Prill Size (89.08% < 90.0%),1
+2025-06-27,Night,AN-04,Prill Size (86.81% < 90.0%),1
+2025-06-28,Evening,AN-03,Boiler pH (7.53 is outside 8.5-9.5),1
+2025-06-29,Night,AN-03,Boiler pH (8.13 is outside 8.5-9.5),1
+2025-07-01,Evening,AN-04,"Moisture (0.405% > 0.3%), Boiler pH (8.49 is outside 8.5-9.5)",2
+2025-07-01,Night,AN-02,Moisture (0.325% > 0.3%),1
+2025-07-02,Night,AN-04,Boiler pH (9.61 is outside 8.5-9.5),1
+2025-07-04,Morning,AN-03,Moisture (0.35% > 0.3%),1
+2025-07-04,Evening,AN-02,Moisture (0.305% > 0.3%),1
+2025-07-05,Morning,AN-03,Moisture (0.335% > 0.3%),1
+2025-07-07,Morning,AN-04,Ammonia Purity (99.435% < 99.5%),1
+2025-07-08,Morning,AN-02,"Moisture (0.393% > 0.3%), Prill Size (87.95% < 90.0%)",2
+2025-07-08,Night,AN-02,Moisture (0.339% > 0.3%),1
+2025-07-10,Night,AN-04,Moisture (0.321% > 0.3%),1
+2025-07-12,Morning,AN-03,Moisture (0.346% > 0.3%),1
+2025-07-13,Evening,AN-03,Moisture (0.37% > 0.3%),1
+2025-07-15,Morning,AN-03,Moisture (0.365% > 0.3%),1
+2025-07-15,Night,AN-02,Moisture (0.345% > 0.3%),1
+2025-07-17,Evening,AN-04,Moisture (0.346% > 0.3%),1
+2025-07-17,Night,AN-04,Moisture (0.335% > 0.3%),1
+2025-07-19,Night,AN-03,Moisture (0.344% > 0.3%),1
+2025-07-20,Night,AN-03,Moisture (0.327% > 0.3%),1
+2025-07-21,Evening,AN-01,Moisture (0.323% > 0.3%),1
+2025-07-22,Evening,AN-03,Moisture (0.31% > 0.3%),1
+2025-07-23,Morning,AN-01,Moisture (0.389% > 0.3%),1
+2025-07-23,Night,AN-02,Moisture (0.367% > 0.3%),1
+2025-07-24,Morning,AN-03,Moisture (0.323% > 0.3%),1
+2025-07-24,Evening,AN-02,Moisture (0.356% > 0.3%),1
+2025-07-26,Night,AN-02,Moisture (0.385% > 0.3%),1
+2025-07-27,Morning,AN-04,Moisture (0.362% > 0.3%),1
+2025-07-27,Evening,AN-03,Moisture (0.357% > 0.3%),1
+2025-07-27,Night,AN-04,Prill Size (89.26% < 90.0%),1
+2025-07-29,Evening,AN-04,"Moisture (0.36% > 0.3%), Prill Size (89.59% < 90.0%)",2
+2025-07-30,Evening,AN-01,"Moisture (0.345% > 0.3%), Prill Size (89.65% < 90.0%)",2
+2025-08-02,Morning,AN-02,Moisture (0.385% > 0.3%),1
+2025-08-05,Evening,AN-03,Moisture (0.329% > 0.3%),1
+2025-08-06,Morning,AN-01,Prill Size (87.43% < 90.0%),1
+2025-08-06,Evening,AN-04,Moisture (0.364% > 0.3%),1
+2025-08-06,Night,AN-03,Prill Size (89.91% < 90.0%),1
+2025-08-07,Evening,AN-02,Moisture (0.314% > 0.3%),1
+2025-08-10,Evening,AN-01,"Moisture (0.368% > 0.3%), Prill Size (89.91% < 90.0%)",2
+2025-08-11,Morning,AN-03,Ammonia Purity (99.415% < 99.5%),1
+2025-08-11,Evening,AN-03,Moisture (0.317% > 0.3%),1
+2025-08-11,Night,AN-03,Moisture (0.341% > 0.3%),1
+2025-08-12,Night,AN-01,"Moisture (0.345% > 0.3%), Prill Size (89.09% < 90.0%)",2
+2025-08-13,Morning,AN-01,"Moisture (0.341% > 0.3%), Prill Size (87.4% < 90.0%)",2
+2025-08-14,Morning,AN-03,Moisture (0.323% > 0.3%),1
+2025-08-14,Evening,AN-04,Boiler pH (7.47 is outside 8.5-9.5),1
+2025-08-14,Night,AN-03,Boiler pH (7.8 is outside 8.5-9.5),1
+2025-08-15,Night,AN-03,Moisture (0.338% > 0.3%),1
+2025-08-16,Morning,AN-02,Moisture (0.307% > 0.3%),1
+2025-08-16,Night,AN-04,Ammonia Purity (99.46% < 99.5%),1
+2025-08-18,Night,AN-04,Boiler pH (9.66 is outside 8.5-9.5),1
+2025-08-19,Evening,AN-04,Moisture (0.368% > 0.3%),1
+2025-08-19,Night,AN-04,Moisture (0.35% > 0.3%),1
+2025-08-21,Night,AN-03,"Moisture (0.326% > 0.3%), Prill Size (89.76% < 90.0%), Ammonia Purity (99.477% < 99.5%)",3
+2025-08-22,Morning,AN-01,Prill Size (89.26% < 90.0%),1
+2025-08-22,Evening,AN-04,Ammonia Purity (99.498% < 99.5%),1
+2025-08-23,Night,AN-03,Moisture (0.316% > 0.3%),1
+2025-08-24,Evening,AN-03,Moisture (0.349% > 0.3%),1
+2025-08-24,Night,AN-02,Moisture (0.32% > 0.3%),1
+2025-08-26,Night,AN-04,Prill Size (87.67% < 90.0%),1
+2025-08-27,Evening,AN-02,Moisture (0.344% > 0.3%),1
+2025-08-27,Night,AN-04,Moisture (0.366% > 0.3%),1
+2025-08-28,Evening,AN-04,Moisture (0.392% > 0.3%),1
+2025-08-28,Night,AN-01,Moisture (0.392% > 0.3%),1
+2025-08-29,Evening,AN-02,Prill Size (87.95% < 90.0%),1
+2025-08-29,Night,AN-03,Moisture (0.31% > 0.3%),1
+2025-09-01,Morning,AN-02,Ammonia Purity (99.41% < 99.5%),1
+2025-09-05,Evening,AN-02,Boiler pH (8.49 is outside 8.5-9.5),1
+2025-09-07,Night,AN-01,Ammonia Purity (99.479% < 99.5%),1
+2025-09-08,Morning,AN-02,Prill Size (86.62% < 90.0%),1
+2025-09-10,Night,AN-04,"Prill Size (89.91% < 90.0%), Boiler pH (8.05 is outside 8.5-9.5)",2
+2025-09-11,Evening,AN-03,Prill Size (89.49% < 90.0%),1
+2025-09-12,Evening,AN-03,Boiler pH (7.71 is outside 8.5-9.5),1
+2025-09-13,Evening,AN-01,Boiler pH (9.65 is outside 8.5-9.5),1
+2025-09-13,Night,AN-02,Boiler pH (10.01 is outside 8.5-9.5),1
+2025-09-15,Night,AN-04,Ammonia Purity (99.329% < 99.5%),1
+2025-09-19,Morning,AN-02,Boiler pH (9.71 is outside 8.5-9.5),1
+2025-09-19,Evening,AN-04,Ammonia Purity (99.478% < 99.5%),1
+2025-09-20,Night,AN-03,Prill Size (89.73% < 90.0%),1
+2025-10-05,Night,AN-03,Moisture (0.305% > 0.3%),1
+2025-10-08,Morning,AN-01,Boiler pH (7.67 is outside 8.5-9.5),1
+2025-10-09,Evening,AN-02,"Prill Size (89.93% < 90.0%), Boiler pH (7.72 is outside 8.5-9.5)",2
+2025-10-12,Morning,AN-04,Ammonia Purity (99.482% < 99.5%),1
+2025-10-17,Evening,AN-01,Prill Size (88.89% < 90.0%),1
+2025-10-19,Night,AN-02,Boiler pH (9.53 is outside 8.5-9.5),1
+2025-10-20,Night,AN-01,"Prill Size (89.64% < 90.0%), Ammonia Purity (99.388% < 99.5%)",2
+2025-10-21,Morning,AN-03,Prill Size (88.64% < 90.0%),1
+2025-10-25,Morning,AN-02,Boiler pH (9.66 is outside 8.5-9.5),1
+2025-10-28,Night,AN-02,Prill Size (89.71% < 90.0%),1
+2025-10-31,Evening,AN-02,"Prill Size (89.5% < 90.0%), Boiler pH (7.65 is outside 8.5-9.5)",2
+2025-11-02,Evening,AN-02,"Prill Size (88.66% < 90.0%), Boiler pH (9.68 is outside 8.5-9.5)",2
+2025-11-04,Morning,AN-04,Ammonia Purity (99.491% < 99.5%),1
+2025-11-06,Morning,AN-01,Ammonia Purity (99.342% < 99.5%),1
+2025-11-07,Morning,AN-01,Boiler pH (8.36 is outside 8.5-9.5),1
+2025-11-08,Morning,AN-02,"Biuret (1.037% > 1.0%), Ammonia Purity (99.347% < 99.5%)",2
+2025-11-09,Evening,AN-01,Biuret (1.123% > 1.0%),1
+2025-11-10,Morning,AN-01,Ammonia Purity (99.391% < 99.5%),1
+2025-11-15,Morning,AN-01,Ammonia Purity (99.433% < 99.5%),1
+2025-11-15,Evening,AN-01,Ammonia Purity (99.47% < 99.5%),1
+2025-11-16,Night,AN-04,Boiler pH (9.69 is outside 8.5-9.5),1
+2025-11-17,Morning,AN-02,Boiler pH (9.58 is outside 8.5-9.5),1
+2025-11-18,Morning,AN-01,"Biuret (1.132% > 1.0%), Ammonia Purity (99.311% < 99.5%), Boiler pH (8.48 is outside 8.5-9.5)",3
+2025-11-18,Evening,AN-04,"Biuret (1.117% > 1.0%), Ammonia Purity (99.446% < 99.5%)",2
+2025-11-19,Evening,AN-02,Ammonia Purity (99.25% < 99.5%),1
+2025-11-20,Evening,AN-02,Ammonia Purity (99.256% < 99.5%),1
+2025-11-21,Morning,AN-01,Boiler pH (8.32 is outside 8.5-9.5),1
+2025-11-21,Night,AN-04,Boiler pH (9.51 is outside 8.5-9.5),1
+2025-11-22,Evening,AN-02,Ammonia Purity (99.186% < 99.5%),1
+2025-11-25,Evening,AN-04,"Biuret (1.112% > 1.0%), Ammonia Purity (99.148% < 99.5%)",2
+2025-11-26,Morning,AN-04,Boiler pH (8.07 is outside 8.5-9.5),1
+2025-11-26,Evening,AN-01,Ammonia Purity (99.436% < 99.5%),1
+2025-11-26,Night,AN-04,"Biuret (1.032% > 1.0%), Prill Size (88.35% < 90.0%), Ammonia Purity (99.189% < 99.5%)",3
+2025-11-27,Night,AN-02,"Biuret (1.021% > 1.0%), Ammonia Purity (99.306% < 99.5%)",2
+2025-12-02,Evening,AN-03,Prill Size (88.61% < 90.0%),1
+2025-12-03,Morning,AN-01,Boiler pH (8.44 is outside 8.5-9.5),1
+2025-12-04,Morning,AN-04,Boiler pH (7.86 is outside 8.5-9.5),1
+2025-12-04,Evening,AN-02,Ammonia Purity (99.462% < 99.5%),1
+2025-12-07,Night,AN-01,Boiler pH (8.19 is outside 8.5-9.5),1
+2025-12-11,Night,AN-01,Prill Size (88.82% < 90.0%),1
+2025-12-13,Night,AN-02,Boiler pH (8.01 is outside 8.5-9.5),1
+2025-12-16,Evening,AN-04,Prill Size (88.84% < 90.0%),1
+2025-12-20,Evening,AN-02,Boiler pH (8.01 is outside 8.5-9.5),1
+2025-12-23,Evening,AN-03,Moisture (0.309% > 0.3%),1
+2025-12-24,Morning,AN-02,Boiler pH (8.42 is outside 8.5-9.5),1
+2025-12-27,Evening,AN-02,Prill Size (89.97% < 90.0%),1
+2025-12-28,Evening,AN-01,Prill Size (89.23% < 90.0%),1
+2025-12-30,Night,AN-04,Boiler pH (9.85 is outside 8.5-9.5),1
